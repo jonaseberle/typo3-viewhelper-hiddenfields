@@ -1,5 +1,5 @@
 <?php
-namespace Dm\Anbieter\ViewHelpers\Form;
+namespace Vendor\MyExt\ViewHelpers\Form;
 
 class HiddenFieldsViewHelper extends \TYPO3\CMS\Fluid\ViewHelpers\Form\AbstractFormFieldViewHelper
 {
